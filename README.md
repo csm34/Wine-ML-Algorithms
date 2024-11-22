@@ -1,1 +1,1 @@
-# Wine-GelecekHayalim-ML-Algorithms
+# Wine-ML-Algorithms
