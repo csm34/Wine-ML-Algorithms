@@ -22,7 +22,6 @@ The project is divided into two main parts:
 
 - **`wine.ipynb`**: Jupyter Notebook containing the data analysis and machine learning model training process.
 - **`streamlit_wine_app.py`**: Streamlit application for interactive results exploration.
-- **`requirements.txt`**: List of dependencies required to run the project.
 
 ---
 
@@ -62,10 +61,10 @@ This project requires the following Python libraries:
 ## Screenshots
 
 ### Main Page
-![Wine Dataset](images/wine_dataset.png)
+![Wine Dataset](wine_dataset.png)
 
 ### Machine Learning Model Selection
-![Wine ML Selection](images/wine_ml.png)
+![Wine ML Selection](wine_ml.png)
 
 ---
 
