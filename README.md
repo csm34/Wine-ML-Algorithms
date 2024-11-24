@@ -4,6 +4,41 @@ This machine learning project uses the Wine dataset for classification with thre
 
 ---
 
+### Key Information:
+- **Source:** The dataset is part of the `scikit-learn` library (`sklearn.datasets.load_wine`).
+- **Number of Samples:** 178 wines.
+- **Number of Features:** 13 chemical properties:
+  - Alcohol
+  - Malic acid
+  - Ash
+  - Alkalinity of ash
+  - Magnesium
+  - Total phenols
+  - Flavanoids
+  - Nonflavanoid phenols
+  - Proanthocyanins
+  - Color intensity
+  - Hue
+  - OD280/OD315 of diluted wines
+  - Proline
+- **Target Classes:**  
+  The dataset contains three target classes representing different grape cultivars (varieties of grapes):
+  - Class 0: Cultivar A
+  - Class 1: Cultivar B
+  - Class 2: Cultivar C
+
+### Purpose:
+The dataset is used to classify wines into one of these three cultivars based on their chemical attributes. Note that:
+- The classes are **not related to wine quality**. They represent grape types used to make the wines.
+- This dataset is ideal for exploring classification algorithms like logistic regression, decision trees, or k-nearest neighbors.
+
+### Practical Applications:
+- **Feature Selection:** Identify which chemical properties most influence wine classification.
+- **Data Visualization:** Understand the relationships between chemical features and wine types.
+- **Model Building:** Train machine learning models to classify wines based on their chemical composition.
+
+---
+
 ## Project Overview
 
 In this project, we explore the Wine dataset to classify wines into different categories based on various features such as alcohol content, color intensity, and more. The classification is performed using three machine learning algorithms:
