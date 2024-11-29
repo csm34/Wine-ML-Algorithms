@@ -76,7 +76,11 @@ This project requires the following Python libraries:
 
 ## Setup and Installation
 
-1. Clone this repository to your local machine.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/csm34/Wine-ML-Algorithms.git
+   cd Wine-ML-Algorithms
+   ```
 2. Create a virtual environment (optional but recommended):
    ```bash
    python -m venv venv
